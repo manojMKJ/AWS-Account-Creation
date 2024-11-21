@@ -28,8 +28,8 @@ Step 7:
 Review and Create IAM User
 
 ## OUTPUT
-### REG NUMBER: 212222230016
-### NAME: BALAMURUGAN B
+### REG NUMBER: 212222230078
+### NAME: Manoj Kumar G
 1. Root user:
    ![Uploading Screenshot (25).png…]()
 
