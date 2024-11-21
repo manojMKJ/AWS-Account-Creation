@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-11-21 at 21 40 06_7ca5fe4d](https://github.com/user-attachments/assets/f6b27e81-eda3-4d84-824c-728ef0b66944)# CREATE AN ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER
+# CREATE AN ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER
 ## AIM :
 To create an AWS account, set up a root user, and create an IAM user with specified permissions.
 
@@ -31,7 +31,7 @@ Review and Create IAM User
 ### REG NUMBER: 212222230078
 ### NAME: Manoj Kumar G
 1. Root user:
-   ![Uploading Screenshot (25).png…]()
+![WhatsApp Image 2024-11-21 at 21 40 06_7ca5fe4d](https://github.com/user-attachments/assets/f6b27e81-eda3-4d84-824c-728ef0b66944)
 
 
 
